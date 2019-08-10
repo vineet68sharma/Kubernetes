@@ -1,3 +1,3 @@
-# hello-world-api
+# hello-world
 
-A demo hello world application.
+A hello world application.
