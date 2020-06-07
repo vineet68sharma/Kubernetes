@@ -10,7 +10,7 @@ spec:
         app: hello-world
     spec: 
       containers: 
-        - image: "gokul93/hello-world:latest"
+        - image: "cloud/hello-world:latest"
           imagePullPolicy: Always
           name: hello-world-container
           ports: 
